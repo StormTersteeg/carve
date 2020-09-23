@@ -5,9 +5,9 @@
 
 ## About The Project
 
-I created Carve because I often use online compressors for my CSS. Sometimes, I want to compress my CSS when no internet is around. Carve may not be the best compressor around, but it works.
+Carve is a css compressor with a simple command-line interface. You can have multiple instances of Carve to compress files while you develop. The application detects file changes. No installation required.
 
-Carve is a css compressor with a simple command-line interface. You can have multiple instances of Carve to compress files while you develop. The application detects file changes.
+I created Carve because I often use online compressors for my CSS. Sometimes, I want to compress my CSS when no internet is around. Carve may not be the best compressor around, but it works.
 
 <img src="https://projects.dontdalon.com/assets/img/screen3.png">
 
